@@ -27,6 +27,8 @@
     "@vue/compiler-sfc": "^3.5.27",
     "concurrently": "^9.2.1",
     "nodemon": "^3.1.11",
-    "vite": "^7.3.1"
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1",
+    "vue-tsc": "^3.2.4"
   }
 }
